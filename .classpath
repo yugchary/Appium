@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/test"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Selenium/selenium-java-3.13.0/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/testng-6.11.jar" sourcepath="C:/Users/akkyu01/.m2/repository/org/testng/testng/6.11/testng-6.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/log4j-api-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/log4j-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/akkyu01/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" sourcepath="C:/Users/akkyu01/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="log4j"/>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.version" value="1.2.17"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/akkyu01/.m2/repository/junit/junit/4.12/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Yug/From Old Laptop/From LoanLap/Yug/Appium/selenium jars/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akkyu01/.m2/repository/commons-validator/commons-validator/1.5.0/commons-validator-1.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
